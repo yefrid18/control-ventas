@@ -55,7 +55,7 @@ const Login = () => {
                             />
                         </div>
                     </div>
-                    <p className="mt-5 mb-3 text-muted">©DevSoft - 2021</p>
+                    <p className="mt-5 mb-3 text-muted">©Control_Ventas - 2021</p>
                 </form>
             </div>
         </div>
