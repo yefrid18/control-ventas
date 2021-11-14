@@ -43,19 +43,19 @@ const Login = () => {
                         alt="logo"
                         className="img-login mb-3"
                     ></img>
-                    <h1 className="h3 mb-5 fw-normal">Iniciar Sesion</h1>
+                    <h1 className="h3 mb-5 fw-normal">Iniciar Sesión</h1>
                     <div className="">
                         <div className="">
                             <GoogleLogin
                                 clientId="855294903199-38asjgffanbuc7kep3juviq8ckl015n2.apps.googleusercontent.com"
-                                buttonText="Iniciar Sesion"
+                                buttonText="Sign in"
                                 onSuccess={responseGoogle}
                                 onFailure={responseGoogle}
                                 cookiePolicy={'single_host_origin'}
                             />
                         </div>
                     </div>
-                    <p className="mt-5 mb-3 text-muted">©MinTic 2021</p>
+                    <p className="mt-5 mb-3 text-muted">©DevSoft - 2021</p>
                 </form>
             </div>
         </div>

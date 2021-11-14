@@ -7,9 +7,10 @@
 }
 
 .log {
-    width: 450px;
-    background: #fff;
-    border-radius: 5px;
+    width: 400px;
+    background: rgb(211, 224, 209);  
+    opacity: 5;  
+    border-radius: 5px;   
   }
 
   .contlogin{
@@ -19,7 +20,8 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-image: -webkit-linear-gradient(bottom, #0250c5, #e60e0e);
+    background-image: linear-gradient(#E3EECF,#BBD5C0,#A0C3AD,#A0C3AD,#E3EECF,#BBD5C0,#A0C3AD);
+    
     /* background: #0250c5;
     background: -webkit-linear-gradient(bottom, #0250c5, #e60e0e);
     background: -moz-linear-gradient(bottom, #0250c5, #e60e0e);
