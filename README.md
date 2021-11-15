@@ -6,4 +6,6 @@ Realizado por:
 Yefrid Hernando Morelo Marzola
 &
 Julian Esteban Padilla Chiquillo
+&
+Ruth Damaris Ramos Balaguera
 
